@@ -55,7 +55,7 @@ const Toolbar = ({
           Start
         </Button>
         <Link
-          href="https://github.com/tmneth/sorting-visualizer"
+          href="https://github.com/chilakavyshnavi/Sorting-Visualizer"
           target="_blank"
         >
           <Icon className="fa-brands fa-github" />
